@@ -1,6 +1,6 @@
 ### 概要
 
-AssetBundleでサーバー上ののSceneをダウンロードしてLoadSceneするだけ
+AssetBundleでサーバー上のSceneをダウンロードしてLoadSceneするだけ
 
 ### AssetBundle作るツール
 
