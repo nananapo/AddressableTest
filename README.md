@@ -1,8 +1,17 @@
-アセットにAddressableを追加
+### 概要
 
-1. prefabのAddressableにチェックを入れる
-2. Window/アセット管理/Addressable/で確認
+AssetBundleでサーバー上ののSceneをダウンロードしてLoadSceneするだけ
 
-GameObject obj = await Addressables.InstantiateAsync("アドレス")
+### AssetBundle作るツール
 
-https://qiita.com/nisoka/items/66308f5d1029c1f29253
+https://docs.unity3d.com/jp/current/Manual/AssetBundles-Browser.html
+
+### 参考
+
+めっちゃ助かった
+* https://light11.hatenadiary.com/entry/2019/06/24/212437
+* https://tsubakit1.hateblo.jp/entry/2016/08/23/233604
+
+LoadAllAssetsは使ったらエラー出た
+
+https://www.facebook.com/groups/unityuserj/posts/1141572322569373/
