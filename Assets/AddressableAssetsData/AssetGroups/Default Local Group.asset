@@ -18,11 +18,11 @@ MonoBehaviour:
   m_GUID: 93107ac8db12a41b497d2fd121cd09cd
   m_SerializeEntries:
   - m_GUID: b6918b9e06dfa4b8593730b7d40e23e9
-    m_Address: Assets/Prefab/Cube.prefab
+    m_Address: Cube
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_MainAsset: {fileID: 4796468836815460900, guid: b6918b9e06dfa4b8593730b7d40e23e9, type: 3}
-    m_TargetAsset: {fileID: 4796468836815460900, guid: b6918b9e06dfa4b8593730b7d40e23e9, type: 3}
+    m_MainAsset: {fileID: 3530326987249913944, guid: b6918b9e06dfa4b8593730b7d40e23e9, type: 3}
+    m_TargetAsset: {fileID: 3530326987249913944, guid: b6918b9e06dfa4b8593730b7d40e23e9, type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 3e5e702889e164b6c93606b0aa4b9a96, type: 2}
   m_SchemaSet:

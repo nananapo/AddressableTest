@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2115024672
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: dwnscene
+      Dependencies: {}
